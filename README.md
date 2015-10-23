@@ -1,7 +1,7 @@
 # dotfiles
 
 
-# Pluginy do Vim'a
+## Pluginy do Vim'a
 
-## YouAutocompleteMe
+### YouAutocompleteMe
 
